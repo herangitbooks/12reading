@@ -1,0 +1,54 @@
+{
+    "author" : "Ran He",
+    "links" : {
+        "sidebar" : {
+        "12Reading" : "false"
+        }
+      },
+    "styles": {
+        "website": "styles/website.css"
+    },
+    
+    "plugins": [
+    "ad",
+    "sitemap",
+    "splitter",
+    "book-summary-scroll-position-saver",
+    "prism", 
+    "-highlight",
+    "simple-page-toc",
+    "page-toc-button",
+    "sharing",
+    "tags", "-lunr", "-search", "search-pro"
+        ],
+    
+    "pluginsConfig": {
+    "fontsettings": {
+      "theme": "white",
+      "family": "serif",
+      "size": 2
+      },
+    "ad": {
+      "contentTop": "",
+      "contentBottom": "©2017 www.12reading.com all rights reserved."
+      },
+    "sitemap": {
+      "hostname": "https://www.12reading.com/"
+      },
+    "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+     },
+     "tags": {
+            "placement": "bottom"
+        }
+         
+    }
+}
