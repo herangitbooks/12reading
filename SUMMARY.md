@@ -1,6 +1,6 @@
 # Summary
 
-* [12 Reading](README.md)
+* [HOME](README.md)
 
 ## 5. 创业
 
