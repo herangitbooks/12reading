@@ -19,7 +19,7 @@
     "simple-page-toc",
     "page-toc-button",
     "sharing",
-    "tags", "-lunr", "-search", "search-pro"
+    "tags", "-lunr", "-search", "search-pro", "toggle-chapters"
         ],
     
     "pluginsConfig": {
