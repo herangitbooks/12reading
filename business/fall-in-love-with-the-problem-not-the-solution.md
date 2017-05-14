@@ -1,12 +1,16 @@
-# Fall in love with the problem not the solution
+# Fall in love with the problem, not the solution
 
 > 提出一个问题往往比解决一个问题更重要。因为解决问题也许仅是一个数学上或实验上的技能而已，而提出新的问题，却需要有创造性的想象力，而且标志着科学的真正进步。
 >
 > 阿尔伯特· 爱因斯坦
 
+
+
 > 创造性与“质疑”是本质的，一个创造性的问题是一种表达方式——它不需要确定的答案。这是因为它自身就包含了无数答案。
 >
 > 原研哉
+
+
 
 > "As a startup, figure out the **problem** you are addressing, and the **users**."
 >
