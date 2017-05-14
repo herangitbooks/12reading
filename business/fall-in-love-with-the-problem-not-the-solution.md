@@ -20,7 +20,7 @@ Uri Levine, [Waze](https://zh.wikipedia.org/wiki/位智) cofounder
 
 > 5W2H1E：
 >
-> * What \(什么\)：目的、内容、客户、细分领域。
+> * What \(什么\)：目的、内容、客户、细分领域、 产品。
 > * Who \(谁\)：相关人员。
 > * Where \(何处\)：实施场所。
 > * When \(何时\)：时间。
@@ -36,8 +36,6 @@ Uri Levine, [Waze](https://zh.wikipedia.org/wiki/位智) cofounder
 第四，要有商业意识，了解商业规则和可行性。
 
 第五，了解人性。
-
-
 
 ---
 
