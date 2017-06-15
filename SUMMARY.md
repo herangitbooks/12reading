@@ -9,7 +9,7 @@
 
 ## 6月 – Lean, Six Sigma, BPM
 
-* [Lean](lean/what.md)
+* Lean
   * [最简可行产品](lean/mbp.md)
 * Six Sigma
 * BPM
